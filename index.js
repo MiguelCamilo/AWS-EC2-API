@@ -3,7 +3,7 @@ import cors from "cors"
 import dotenv from "dotenv"
 dotenv.config()
 
-const port = 4040
+const port = 4041
 
 const app = express()
 app.use(cors())
